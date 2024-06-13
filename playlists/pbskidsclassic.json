@@ -1,0 +1,34 @@
+{
+	"info": {
+		"name": "PBS Kids - Classic",
+		"start_epoch_gtm": 0,
+		"player": "youtube"
+	},
+	"playlist": [
+		{
+			"name": "Dragon Tales - Episode 02 (To Kingdom Come; Goodbye, Little Caterpoozle)",
+			"duration": 1496,
+			"src": "DCi2CJZi7p0"
+		},
+		{
+			"name": "Dragon Tales - Episode 03 (Knot a Problem; Ord's Unhappy Birthday)",
+			"duration": 1496,
+			"src": "LFqvhdrHgxQ"
+		},
+		{
+			"name": "Dragon Tales - Episode 07 (The Giant of Nod; The Big Sleepover)",
+			"duration": 1496,
+			"src": "Px54gBlvyoc"
+		},
+		{
+			"name": "Sagwa, the Chinese Siamese Cat - Episode 01 (How Sagwa Got Her Colors)",
+			"duration": 1472,
+			"src": "0skmm0FBl-Q"
+		},
+		{
+			"name": "Sagwa, the Chinese Siamese Cat - Episode 02 (The New Year's Clean-Up; Firefly Nights)"
+			"duration": 1471,
+			"src": "Z9kGpUDj8_4"
+		},
+	]
+}
